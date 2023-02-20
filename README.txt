@@ -7,3 +7,9 @@ destroys the aliens. If the player shoots all the aliens, a ne wfleet
 appeats tha moves faster tgen the previous fleet. If any alien hits
 the player's ship or reaches the bottom of the screen, the player
 loses a ship. If the player loses three ship, the game ends.
+
+Game Phases:
+Symbols: (c)omplete - (p)ending - (i)n progress
+BETA: v0.1 - Setting the game and adding ship with horizontal movement (i)
+BETA: v0.2 - Adding fleet of aliens to destroy (p)
+BETA: v0.3 - Setting game limits and adding scoreboard (p)
