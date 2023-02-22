@@ -10,6 +10,6 @@ loses a ship. If the player loses three ship, the game ends.
 
 Game Phases:
 Symbols: (c)omplete - (p)ending - (i)n progress
-BETA: v0.1 - Setting the game and adding ship with horizontal movement (i)
-BETA: v0.2 - Adding fleet of aliens to destroy (p)
+BETA: v0.1 - Setting the game and adding ship with horizontal movement (c)
+BETA: v0.2 - Adding fleet of aliens to destroy (i)
 BETA: v0.3 - Setting game limits and adding scoreboard (p)
